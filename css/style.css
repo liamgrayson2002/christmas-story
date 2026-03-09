@@ -29,7 +29,7 @@ body{ background:#333;
              float:left;
 			 display:block;}
 
-#menu ul li a{ width:1000px;
+#menu ul li a{ width:190px;
 		       height:200px;
 		       background-image:url(../images/change.jpg);
 		       background-repeat:no-repeat;
@@ -53,7 +53,7 @@ body{ background:#333;
 #title{ font-size:36px;
         color:#0FF;
 		text-align:center;
-		margin-bottom::15px;}
+		margin-bottom:15px;}
 		
 .imgleft{ width:300px;
           height:150px;
@@ -106,6 +106,7 @@ body{ background:#333;
 
   				  				   		   			  
 	
+
 
 
 
