@@ -11,7 +11,7 @@ body{ background:#333;
 	   border:solid 1px #333333;}
 	   	  
 	  
-#header{ background-image:url(images/christmas1.jpg);
+#header{ background-image:url(../images/christmas1.jpg);
 	     width:1000px;
          height:200px;
 	     margin:0 auto;
@@ -31,7 +31,7 @@ body{ background:#333;
 
 #menu ul li a{ width:1000px;
 		       height:200px;
-		       background-image:url(images/change.jpg);
+		       background-image:url(../images/change.jpg);
 		       background-repeat:no-repeat;
 		       text-decoration:none;
 			   text-align:center;
@@ -41,7 +41,7 @@ body{ background:#333;
 			   font-family:Tahoma, Geneva, sans-serif;
 			   font-weight:bold;}
 			   
-#menu ul li a:hover{ background-image:url(images/change1.jpg);
+#menu ul li a:hover{ background-image:url(../images/change1.jpg);
                      color:#0F0;}
 				   
 #content{ width:1130px;
@@ -106,4 +106,5 @@ body{ background:#333;
 
   				  				   		   			  
 	
+
 
