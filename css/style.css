@@ -11,7 +11,7 @@ body{ background:#333;
 	   border:solid 1px #333333;}
 	   	  
 	  
-#header{ background-image:url(../images/christmas1.jpg);
+#header{ background-image:url(./images/christmas1.jpg);
 	     width:1000px;
          height:200px;
 	     margin:0 auto;
@@ -29,7 +29,7 @@ body{ background:#333;
              float:left;
 			 display:block;}
 
-#menu ul li a{ width:1000px;
+#menu ul li a{ width:190px;
 		       height:200px;
 		       background-image:url(../images/change.jpg);
 		       background-repeat:no-repeat;
@@ -106,6 +106,7 @@ body{ background:#333;
 
   				  				   		   			  
 	
+
 
 
 
